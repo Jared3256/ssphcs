@@ -73,7 +73,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>Specialized-care</finalName>
+		<finalName>primary-health-care-1</finalName>
 	</build>
 
 </project>
