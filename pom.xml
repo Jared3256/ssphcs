@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.shan-infosystem</groupId>
 	<artifactId>Specialized-Care</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.02</version>
 	<name>Specialized-Care</name>
 	<description>Starter project</description>
 	<properties>
